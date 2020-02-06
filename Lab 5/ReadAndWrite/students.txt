@@ -1,0 +1,3 @@
+Ram        CSE        Jaipur
+Sita       IT         Agra
+Shyam      ECE        Noida
