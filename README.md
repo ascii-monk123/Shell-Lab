@@ -1,3 +1,3 @@
 # Shell-Lab
 
-Repository with all shell command taught in OS lab
+Repository with all shell commands taught in the OS lab
